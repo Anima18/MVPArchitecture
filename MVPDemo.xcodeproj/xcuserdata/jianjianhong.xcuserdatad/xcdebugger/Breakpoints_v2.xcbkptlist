@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVPDemo/LoginPresenter.m"
+            timestampString = "526980638.93165"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-loginWithName:password:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[LoginPresenter loginWithName:password:]_block_invoke"
+                  moduleName = "MVPDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jianjianhong/Documents/github_workspaces/MVPDemo/MVPDemo/LoginPresenter.m"
+                  timestampString = "526979764.60308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "MVPDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jianjianhong/Documents/github_workspaces/MVPDemo/MVPDemo/LoginPresenter.m"
+                  timestampString = "526979764.6045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "MVPDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jianjianhong/Documents/github_workspaces/MVPDemo/MVPDemo/LoginPresenter.m"
+                  timestampString = "526979764.606494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[LoginPresenter loginWithName:password:]_block_invoke.36"
+                  moduleName = "MVPDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jianjianhong/Documents/github_workspaces/MVPDemo/MVPDemo/LoginPresenter.m"
+                  timestampString = "526979764.607981"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
